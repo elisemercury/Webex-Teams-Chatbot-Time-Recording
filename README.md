@@ -4,6 +4,8 @@ A Webex Teams Chatbot for time recording: date, start time and end time. It lets
 
 https://teams.webex.com/
 
+Built using the offical Cisco Webex Teams SDK and the webexteamsbot library.
+
 ----
 Available under: timerec@webex.bot
 
