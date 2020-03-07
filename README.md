@@ -4,4 +4,5 @@ A Webex Teams Chatbot for time recording: date, start time and end time. It lets
 
 ----
 Available under: timerec@webex.bot
-Currently not yet published!
+
+Currently not yet online!
